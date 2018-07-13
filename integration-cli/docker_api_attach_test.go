@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"bytes"
-	"context"
+	"golang.org/x/net/context"
 	"io"
 	"net"
 	"net/http"

@@ -3,7 +3,7 @@
 package daemon
 
 import (
-	"context"
+	"golang.org/x/net/context"
 	"os/exec"
 	"strings"
 

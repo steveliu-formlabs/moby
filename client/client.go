@@ -19,7 +19,7 @@ For example, to list running containers (the equivalent of "docker ps"):
 	package main
 
 	import (
-		"context"
+		"golang.org/x/net/context"
 		"fmt"
 
 		"github.com/docker/docker/api/types"
